@@ -1,5 +1,6 @@
 #show-contact {
   display: none;
+
 }
 
 .contact {
@@ -9,4 +10,10 @@
 
 .contact:hover {
   text-decoration: underline;
+}
+body{
+  background-color: lightyellow;
+}
+h1{
+  text-align: center;
 }
